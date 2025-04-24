@@ -8,9 +8,10 @@ Date: 23 April 2025
 
 Requirements:
 
-  Create a class template
-  template should make a static stack of any kind
-  Driver program.
+  Create template
+  Create a class that uses said template
+  template should make a static stack of any datatype
+  Driver related program.
 
 
 First Thoughts:
@@ -24,3 +25,14 @@ First Thoughts:
     1.) Include <stack>
     2.) create a class 'template' that templates stacks
     3.) verify .push() functions and such.
+
+
+Notes:
+  
+  I did learn the difference between using a static stack
+  and using a dynamic stack is kind of pointer based??
+  Will have to read more about it. I don't know exactly why
+  , but I do know how to recreate it. 
+  
+  For example:
+    Stack *pointer = new stack();
