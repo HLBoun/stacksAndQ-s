@@ -1,0 +1,26 @@
+
+Critical Thinking
+Name: Huthsady Legend Boun
+Professor: Grace A. Comp
+Class: CISP-1020-S01
+Date: 23 April 2025
+
+
+Requirements:
+
+  Create a class template
+  template should make a static stack of any kind
+  Driver program.
+
+
+First Thoughts:
+
+  Should be fairly straight forward. Include <stack>
+  , it should fit any data type (maybe excluding strings).
+
+  Steps:
+    
+    0.) At the top of the paper goes my name...with the date!
+    1.) Include <stack>
+    2.) create a class 'template' that templates stacks
+    3.) verify .push() functions and such.
